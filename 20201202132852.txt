@@ -1,0 +1,517 @@
+***************************************
+* THANKS FOR USE                      *
+* Please Come to My Github            *
+* https://github.com/airgg            *
+*                                     *
+* Don't Forget to Follow My Instagram *
+* https://instagram.com/airgg18       *
+***************************************
+[PAGE] 1
+==================================================
+[INFO] REST based microservices API development in Go lang
+[CATG] IT & Software
+[LINK] https://insidelearn.com/rest-based-microservices-api-development-in-go-lang 
+----------------
+[INFO] Artificial Intelligence: Applications & Career opportunities
+[CATG] IT & Software
+[LINK] https://insidelearn.com/artificial-intelligence-applications-career-opportunities 
+----------------
+[INFO] Easy Video Creation with InVideo
+[CATG] Photography
+[LINK] https://insidelearn.com/easy-video-creation-with-invideo 
+----------------
+[INFO] The complete Vue.js and MongoDB Course 2020
+[CATG] Development
+[LINK] https://insidelearn.com/the-complete-vue-js-and-mongodb-course-2020 
+----------------
+[INFO] The Complete React Redux Node Express MySQL Developer Course
+[CATG] Development
+[LINK] https://insidelearn.com/the-complete-react-redux-node-express-mysql-developer-course 
+----------------
+[INFO] 30days of Code | Django Build a Resume webiste + Blog + more
+[CATG] Development
+[LINK] https://insidelearn.com/30days-of-code-django-build-a-resume-webiste-blog-more 
+----------------
+[INFO] Microsoft SQL Server for Beginners to expert
+[CATG] Development
+[LINK] https://insidelearn.com/microsoft-sql-server-for-beginners-to-expert 
+----------------
+[INFO] CSS3 and Bootstrap for Absolute Beginners : 4 courses in 1
+[CATG] Development
+[LINK] https://insidelearn.com/css3-and-bootstrap-for-absolute-beginners-4-courses-in-1 
+----------------
+[INFO] Pemasaran Afiliasi 101: Pemasaran Afiliasi untuk Pemula
+[CATG] Marketing
+[LINK] https://insidelearn.com/pemasaran-afiliasi-101-pemasaran-afiliasi-untuk-pemula 
+----------------
+[INFO] YAML Basics- Easy guide to understand, create & consume YAML
+[CATG] IT & Software
+[LINK] https://insidelearn.com/yaml-basics-easy-guide-to-understand-create-consume-yaml 
+----------------
+[INFO] LinkedIn Ads Course 2020 : Advanced Strategies for Success
+[CATG] Marketing
+[LINK] https://insidelearn.com/linkedin-ads-course-2020-advanced-strategies-for-success 
+----------------
+[INFO] The Self-Taught Programmer
+[CATG] Development
+[LINK] https://insidelearn.com/the-self-taught-programmer 
+----------------
+
+[PAGE] 2
+==================================================
+[INFO] Pentesting and Securing Web Applications (Ethical Hacking)
+[CATG] IT & Software
+[LINK] https://insidelearn.com/pentesting-and-securing-web-applications-ethical-hacking 
+----------------
+[INFO] Svelte js Getting Started To the Point Guide
+[CATG] Development
+[LINK] https://insidelearn.com/svelte-js-getting-started-to-the-point-guide 
+----------------
+[INFO] [2021] Data Science: A-Z Bootcamp + Real Cases (Version 8.1)
+[CATG] Development
+[LINK] https://insidelearn.com/2021-data-science-a-z-bootcamp-real-cases-version-8-1 
+----------------
+[INFO] Instagram Marketing 2020 | Grow Organic Followers Naturally!
+[CATG] Marketing
+[LINK] https://insidelearn.com/instagram-marketing-2020-grow-organic-followers-naturally 
+----------------
+[INFO] Amazon Quicksight
+[CATG] Business
+[LINK] https://insidelearn.com/amazon-quicksight 
+----------------
+[INFO] 2020 Youtube Hack: Paying For Engagement, Not Only Clicks!
+[CATG] Marketing
+[LINK] https://insidelearn.com/2020-youtube-hack-paying-for-engagement-not-only-clicks 
+----------------
+[INFO] Node.js Crash Course
+[CATG] Development
+[LINK] https://insidelearn.com/node-js-crash-course 
+----------------
+[INFO] Java Programming: Complete Beginner to Advanced
+[CATG] Development
+[LINK] https://insidelearn.com/java-programming-complete-beginner-to-advanced 
+----------------
+[INFO] Java Course For Beginners
+[CATG] Development
+[LINK] https://insidelearn.com/java-course-for-beginners 
+----------------
+[INFO] Python 3 for ABSOLUTE beginners! [April 2020 Edition]
+[CATG] Development
+[LINK] https://insidelearn.com/python-3-for-absolute-beginners-april-2020-edition 
+----------------
+[INFO] Learn HTML, CSS & JavaScript Web For Development
+[CATG] Development
+[LINK] https://insidelearn.com/learn-html-css-javascript-web-for-development 
+----------------
+[INFO] Pandas Library
+[CATG] Development
+[LINK] https://insidelearn.com/pandas-library 
+----------------
+
+[PAGE] 3
+==================================================
+[INFO] NumPy Library
+[CATG] Development
+[LINK] https://insidelearn.com/numpy-library 
+----------------
+[INFO] Python 3 Master Course for 2021
+[CATG] Development
+[LINK] https://insidelearn.com/python-3-master-course-for-2021 
+----------------
+[INFO] Swift 4 Basics - Step by Step iOS 12
+[CATG] Development
+[LINK] https://insidelearn.com/swift-4-basics-step-by-step-ios-12 
+----------------
+[INFO] Deno
+[CATG] Development
+[LINK] https://insidelearn.com/deno-2 
+----------------
+[INFO] Google BigQuery and PostgreSQL: SQL for Data Analysis
+[CATG] Business
+[LINK] https://insidelearn.com/google-bigquery-and-postgresql-sql-for-data-analysis 
+----------------
+[INFO] Modern Java Script From Scratch With Examples and Projects
+[CATG] Development
+[LINK] https://insidelearn.com/modern-java-script-from-scratch-with-examples-and-projects 
+----------------
+[INFO] BEST of Facebook Ads: Facebook Ads 2020 ULTIMATE PRO Edition
+[CATG] Business
+[LINK] https://insidelearn.com/best-of-facebook-ads-facebook-ads-2020-ultimate-pro-edition 
+----------------
+[INFO] Java Programming: For Complete Beginners from scratch - 2020
+[CATG] Development
+[LINK] https://insidelearn.com/java-programming-for-complete-beginners-from-scratch-2020 
+----------------
+[INFO] SQL Masterclass: SQL for Data Analytics
+[CATG] Business
+[LINK] https://insidelearn.com/sql-masterclass-sql-for-data-analytics 
+----------------
+[INFO] Machine Learning & Deep Learning in Python & R
+[CATG] Development
+[LINK] https://insidelearn.com/machine-learning-deep-learning-in-python-r 
+----------------
+[INFO] Google Data Studio A-Z for Data Visualization and Dashboards
+[CATG] Business
+[LINK] https://insidelearn.com/google-data-studio-a-z-for-data-visualization-and-dashboards 
+----------------
+[INFO] MongoDB and Python: Quick start
+[CATG] IT & Software
+[LINK] https://insidelearn.com/mongodb-and-python-quick-start-1 
+----------------
+
+[PAGE] 4
+==================================================
+[INFO] Getting Started With Test Automation Using Selenium
+[CATG] IT & Software
+[LINK] https://insidelearn.com/getting-started-with-test-automation-using-selenium-1 
+----------------
+[INFO] Webpack 4: Beyond the Basics
+[CATG] Development
+[LINK] https://insidelearn.com/webpack-4-beyond-the-basics-1 
+----------------
+[INFO] InVision Studio for UI Designers
+[CATG] Design 
+[LINK] https://insidelearn.com/invision-studio-for-ui-designers-1 
+----------------
+[INFO] JSP and Servlets for Beginners
+[CATG] Development
+[LINK] https://insidelearn.com/jsp-and-servlets-for-beginners-1 
+----------------
+[INFO] Free Hosted Website on GitPages and simple Git Guide
+[CATG] Design 
+[LINK] https://insidelearn.com/free-hosted-website-on-gitpages-and-simple-git-guide-1 
+----------------
+[INFO] iOS App Development and Web Services Course 2020
+[CATG] Development
+[LINK] https://insidelearn.com/ios-app-development-and-web-services-course-2020 
+----------------
+[INFO] Wallpaper Engine: Build a minimal datetime wallpaper with JS
+[CATG] Development
+[LINK] https://insidelearn.com/wallpaper-engine-build-a-minimal-datetime-wallpaper-with-js 
+----------------
+[INFO] TypeScript for Absolute Beginners
+[CATG] IT & Software
+[LINK] https://insidelearn.com/typescript-for-absolute-beginners-2 
+----------------
+[INFO] Understanding Docker and using it for Selenium automation
+[CATG] Development
+[LINK] https://insidelearn.com/understanding-docker-and-using-it-for-selenium-automation-1 
+----------------
+[INFO] Introduction to Game Development with Unity
+[CATG] Development
+[LINK] https://insidelearn.com/introduction-to-game-development-with-unity-1 
+----------------
+[INFO] Serverless Concepts
+[CATG] IT & Software
+[LINK] https://insidelearn.com/serverless-concepts-1 
+----------------
+[INFO] Introduction to Corporate Finance (Mergers & Acquisitions)
+[CATG] Finance & Accounting
+[LINK] https://insidelearn.com/introduction-to-corporate-finance-mergers-acquisitions-1 
+----------------
+
+[PAGE] 5
+==================================================
+[INFO] PySpark - Python Spark Hadoop coding framework & testing
+[CATG] IT & Software
+[LINK] https://insidelearn.com/pyspark-python-spark-hadoop-coding-framework-testing 
+----------------
+[INFO] Java Programming, Lambda and more (Java 13, 12, 11, 10, 9,8)
+[CATG] IT & Software
+[LINK] https://insidelearn.com/java-programming-lambda-and-more-java-13-12-11-10-9-8-1 
+----------------
+[INFO] Phonegap App Development Course In 2020
+[CATG] Development
+[LINK] https://insidelearn.com/phonegap-app-development-course-in-2020 
+----------------
+[INFO] Selenium 4 - New Features -Bootcamp
+[CATG] IT & Software
+[LINK] https://insidelearn.com/selenium-4-new-features-bootcamp-1 
+----------------
+[INFO] Serverless Twilio Create a complete video call app w/ React
+[CATG] Development
+[LINK] https://insidelearn.com/serverless-twilio-create-a-complete-video-call-app-w-react 
+----------------
+[INFO] PERN Stack - Build a Yelp clone-Postgres,Express,React,Node
+[CATG] Development
+[LINK] https://insidelearn.com/pern-stack-build-a-yelp-clone-postgres-express-react-node 
+----------------
+[INFO] Docker Masterclass for Machine Learning and Data Science
+[CATG] Development
+[LINK] https://insidelearn.com/docker-masterclass-for-machine-learning-and-data-science 
+----------------
+[INFO] Complete Flutter Bootcamp 2020: From Zero to Hero in Flutter
+[CATG] Development
+[LINK] https://insidelearn.com/complete-flutter-bootcamp-2020-from-zero-to-hero-in-flutter 
+----------------
+[INFO] Security Testing Nmap Security
+[CATG] IT & Software
+[LINK] https://insidelearn.com/security-testing-nmap-security 
+----------------
+[INFO] GoPro Hero 9 Camera Masterclass: From Beginner To Filmmaker
+[CATG] Photography
+[LINK] https://insidelearn.com/gopro-hero-9-camera-masterclass-from-beginner-to-filmmaker 
+----------------
+[INFO] Laravel 7 Tutorial for Beginners
+[CATG] IT & Software
+[LINK] https://insidelearn.com/laravel-7-tutorial-for-beginners 
+----------------
+[INFO] Essential Secrets of JSON
+[CATG] Development
+[LINK] https://insidelearn.com/essential-secrets-of-json 
+----------------
+
+[PAGE] 6
+==================================================
+[INFO] Java programming for complete beginners
+[CATG] Development
+[LINK] https://insidelearn.com/java-programming-for-complete-beginners 
+----------------
+[INFO] React.js - Let's build a Tic Tac Toe game.
+[CATG] Development
+[LINK] https://insidelearn.com/react-js-let-s-build-a-tic-tac-toe-game 
+----------------
+[INFO] Sorting Algorithms and Data Structures
+[CATG] IT & Software
+[LINK] https://insidelearn.com/sorting-algorithms-and-data-structures 
+----------------
+[INFO] Dagger 2 android library with Kotlin language
+[CATG] IT & Software
+[LINK] https://insidelearn.com/dagger-2-android-library-with-kotlin-language 
+----------------
+[INFO] A Beginner's Guide to Node.js
+[CATG] IT & Software
+[LINK] https://insidelearn.com/a-beginner-s-guide-to-node-js 
+----------------
+[INFO] KKM krav maga self defense basic
+[CATG] Health & Fitness
+[LINK] https://insidelearn.com/kkm-krav-maga-self-defense-basic 
+----------------
+[INFO] Xpath, CSS and other Selenium locators for beginners
+[CATG] Development
+[LINK] https://insidelearn.com/xpath-css-and-other-selenium-locators-for-beginners 
+----------------
+[INFO] Vanilla Javascript Course 2020
+[CATG] Development
+[LINK] https://insidelearn.com/vanilla-javascript-course-2020 
+----------------
+[INFO] Learn Object Oriented Programming in PHP
+[CATG] IT & Software
+[LINK] https://insidelearn.com/learn-object-oriented-programming-in-php 
+----------------
+[INFO] Setup Shopify Integration with Pinterest Business Account
+[CATG] Marketing
+[LINK] https://insidelearn.com/setup-shopify-integration-with-pinterest-business-account 
+----------------
+[INFO] How to boost your online business using Facebook
+[CATG] Marketing
+[LINK] https://insidelearn.com/how-to-boost-your-online-business-using-facebook-1 
+----------------
+[INFO] homeCode Robotics Starter Kit Lessons
+[CATG] Teaching & Academics
+[LINK] https://insidelearn.com/homecode-robotics-starter-kit-lessons 
+----------------
+
+[PAGE] 7
+==================================================
+[INFO] Create Kinetic Typography with After Effects
+[CATG] Design 
+[LINK] https://insidelearn.com/create-kinetic-typography-with-after-effects 
+----------------
+[INFO] MERN Stack Authentication And Deployment
+[CATG] Development
+[LINK] https://insidelearn.com/mern-stack-authentication-and-deployment 
+----------------
+[INFO] HANDS ON DOCKER for JAVA Developers
+[CATG] IT & Software
+[LINK] https://insidelearn.com/hands-on-docker-for-java-developers-1 
+----------------
+[INFO] Android Application with Database - (Project Based Course)
+[CATG] Development
+[LINK] https://insidelearn.com/android-application-with-database-project-based-course 
+----------------
+[INFO] Angular and Spring MVC (Updated: Angular 9 and Spring boot)
+[CATG] Development
+[LINK] https://insidelearn.com/angular-and-spring-mvc-updated-angular-9-and-spring-boot 
+----------------
+[INFO] LinkedIn Training Course
+[CATG] Marketing
+[LINK] https://insidelearn.com/linkedin-training-course-1 
+----------------
+[INFO] Deno
+[CATG] Development
+[LINK] https://insidelearn.com/deno 
+----------------
+[INFO] Swagger Tools
+[CATG] IT & Software
+[LINK] https://insidelearn.com/swagger-tools 
+----------------
+[INFO] Grafana
+[CATG] IT & Software
+[LINK] https://insidelearn.com/grafana 
+----------------
+[INFO] Certified Kubernetes Administrator
+[CATG] IT & Software
+[LINK] https://insidelearn.com/certified-kubernetes-administrator 
+----------------
+[INFO] Zabbix
+[CATG] IT & Software
+[LINK] https://insidelearn.com/zabbix 
+----------------
+[INFO] Webpack
+[CATG] Development
+[LINK] https://insidelearn.com/webpack 
+----------------
+
+[PAGE] 8
+==================================================
+[INFO] OpenShift
+[CATG] IT & Software
+[LINK] https://insidelearn.com/openshift 
+----------------
+[INFO] Become an iOS Developer from Scratch
+[CATG] Development
+[LINK] https://insidelearn.com/become-an-ios-developer-from-scratch-1 
+----------------
+[INFO] Linux Fundamentals for IT Professionals
+[CATG] IT & Software
+[LINK] https://insidelearn.com/linux-fundamentals-for-it-professionals-1 
+----------------
+[INFO] Introduction to Algorithms and Data structures in C++
+[CATG] Development
+[LINK] https://insidelearn.com/introduction-to-algorithms-and-data-structures-in-c-1 
+----------------
+[INFO] Packet Tracer labs for the CCNA 200-301 exam: Practical labs
+[CATG] IT & Software
+[LINK] https://insidelearn.com/packet-tracer-labs-for-the-ccna-200-301-exam-practical-labs-1 
+----------------
+[INFO] Real Time Chat With Laravel Broadcast, Pusher and Vuejs
+[CATG] Development
+[LINK] https://insidelearn.com/real-time-chat-with-laravel-broadcast-pusher-and-vuejs-1 
+----------------
+[INFO] Instagram Growth Academy | Grow Followers Fast & Easy
+[CATG] Marketing
+[LINK] https://insidelearn.com/instagram-growth-academy-grow-followers-fast-easy-1 
+----------------
+[INFO] Free Blender 2.8 Crash Course!
+[CATG] Design 
+[LINK] https://insidelearn.com/free-blender-2-8-crash-course-1 
+----------------
+[INFO] Introduction to SAN and NAS Storage
+[CATG] IT & Software
+[LINK] https://insidelearn.com/introduction-to-san-and-nas-storage-1 
+----------------
+[INFO] JavaScript Essentials 2020 Mini Course
+[CATG] Development
+[LINK] https://insidelearn.com/javascript-essentials-2020-mini-course-1 
+----------------
+[INFO] Angular 2 & 4 complete tutorial with additional firebase
+[CATG] Development
+[LINK] https://insidelearn.com/angular-2-4-complete-tutorial-with-additional-firebase-1 
+----------------
+[INFO] Django with GeoLocation
+[CATG] Development
+[LINK] https://insidelearn.com/django-with-geolocation 
+----------------
+
+[PAGE] 9
+==================================================
+[INFO] Spring Boot Data JPA, Entity Mappings(FREE)
+[CATG] IT & Software
+[LINK] https://insidelearn.com/spring-boot-data-jpa-entity-mappings-free 
+----------------
+[INFO] Creating Single Page Apps using ASP.Net Core and React
+[CATG] Development
+[LINK] https://insidelearn.com/creating-single-page-apps-using-asp-net-core-and-react 
+----------------
+[INFO] TypeScript Fast Crash Course
+[CATG] Development
+[LINK] https://insidelearn.com/typescript-fast-crash-course-1 
+----------------
+[INFO] No Nonsense Python: learn Python basics and start coding
+[CATG] Development
+[LINK] https://insidelearn.com/no-nonsense-python-learn-python-basics-and-start-coding-1 
+----------------
+[INFO] PHP WebServices
+[CATG] IT & Software
+[LINK] https://insidelearn.com/php-webservices 
+----------------
+[INFO] Angular crash course from scratch
+[CATG] IT & Software
+[LINK] https://insidelearn.com/angular-crash-course-from-scratch 
+----------------
+[INFO] The Complete Instagram Marketing Course for Beginners 2018
+[CATG] Marketing
+[LINK] https://insidelearn.com/the-complete-instagram-marketing-course-for-beginners-2018-1 
+----------------
+[INFO] Python OOP : Object Oriented Programming in Python
+[CATG] Development
+[LINK] https://insidelearn.com/python-oop-object-oriented-programming-in-python 
+----------------
+[INFO] Fundamentals of Solace Development
+[CATG] IT & Software
+[LINK] https://insidelearn.com/fundamentals-of-solace-development-1 
+----------------
+[INFO] Adobe Photoshop Complete Mastery Course Beginner to Advanced
+[CATG] Photography
+[LINK] https://insidelearn.com/adobe-photoshop-complete-mastery-course-beginner-to-advanced-1 
+----------------
+[INFO] JavaScript : JavaScript Awesomeness
+[CATG] Development
+[LINK] https://insidelearn.com/javascript-javascript-awesomeness-1 
+----------------
+[INFO] How to Create a Personal Academic Website
+[CATG] Design 
+[LINK] https://insidelearn.com/how-to-create-a-personal-academic-website-1 
+----------------
+
+[PAGE] 10
+==================================================
+[INFO] The Logo Design Process From Start To Finish
+[CATG] Design 
+[LINK] https://insidelearn.com/the-logo-design-process-from-start-to-finish-1 
+----------------
+[INFO] Learn Python: Python in 80 Minutes for Beginners (2020)
+[CATG] Development
+[LINK] https://insidelearn.com/learn-python-python-in-80-minutes-for-beginners-2020-1 
+----------------
+[INFO] Angular and Laravel Authentication and password reset.
+[CATG] Development
+[LINK] https://insidelearn.com/angular-and-laravel-authentication-and-password-reset-1 
+----------------
+[INFO] Introduction to Web and eCommerce User eXperience Design
+[CATG] Design 
+[LINK] https://insidelearn.com/introduction-to-web-and-ecommerce-user-experience-design-1 
+----------------
+[INFO] Beginner Local SEO | The Foundations of What Google Wants
+[CATG] Marketing
+[LINK] https://insidelearn.com/beginner-local-seo-the-foundations-of-what-google-wants-1 
+----------------
+[INFO] Getting started with Autonomous Database
+[CATG] IT & Software
+[LINK] https://insidelearn.com/getting-started-with-autonomous-database-1 
+----------------
+[INFO] Learn Web Scraping with Python from Scratch
+[CATG] Development
+[LINK] https://insidelearn.com/learn-web-scraping-with-python-from-scratch-1 
+----------------
+[INFO] YouTube 101: Keys to a Successful Channel
+[CATG] Marketing
+[LINK] https://insidelearn.com/youtube-101-keys-to-a-successful-channel-1 
+----------------
+[INFO] Angular Basics for Absolute Beginners
+[CATG] Development
+[LINK] https://insidelearn.com/angular-basics-for-absolute-beginners-1 
+----------------
+[INFO] Complete Bootstrap 4 course - build 3 projects
+[CATG] Development
+[LINK] https://insidelearn.com/complete-bootstrap-4-course-build-3-projects-1 
+----------------
+[INFO] 155 Years of Copywriting Insights Taught In 1.5 Hour Course!
+[CATG] Marketing
+[LINK] https://insidelearn.com/155-years-of-copywriting-insights-taught-in-1-5-hour-course-1 
+----------------
+[INFO] Create Stunning Infographics to Share your Ideas
+[CATG] Design 
+[LINK] https://insidelearn.com/create-stunning-infographics-to-share-your-ideas-1 
+----------------

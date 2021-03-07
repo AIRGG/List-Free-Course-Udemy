@@ -1,0 +1,103 @@
+GITHUB https://github.com/airgg
+
+[PAGE] 1
+==================================================
+[INFO] REST based microservices API development in Go lang
+[CATG] IT & Software
+[LINK] https://insidelearn.com/rest-based-microservices-api-development-in-go-lang 
+----------------
+[INFO] Artificial Intelligence: Applications & Career opportunities
+[CATG] IT & Software
+[LINK] https://insidelearn.com/artificial-intelligence-applications-career-opportunities 
+----------------
+[INFO] Easy Video Creation with InVideo
+[CATG] Photography
+[LINK] https://insidelearn.com/easy-video-creation-with-invideo 
+----------------
+[INFO] The complete Vue.js and MongoDB Course 2020
+[CATG] Development
+[LINK] https://insidelearn.com/the-complete-vue-js-and-mongodb-course-2020 
+----------------
+[INFO] The Complete React Redux Node Express MySQL Developer Course
+[CATG] Development
+[LINK] https://insidelearn.com/the-complete-react-redux-node-express-mysql-developer-course 
+----------------
+[INFO] 30days of Code | Django Build a Resume webiste + Blog + more
+[CATG] Development
+[LINK] https://insidelearn.com/30days-of-code-django-build-a-resume-webiste-blog-more 
+----------------
+[INFO] Microsoft SQL Server for Beginners to expert
+[CATG] Development
+[LINK] https://insidelearn.com/microsoft-sql-server-for-beginners-to-expert 
+----------------
+[INFO] CSS3 and Bootstrap for Absolute Beginners : 4 courses in 1
+[CATG] Development
+[LINK] https://insidelearn.com/css3-and-bootstrap-for-absolute-beginners-4-courses-in-1 
+----------------
+[INFO] Pemasaran Afiliasi 101: Pemasaran Afiliasi untuk Pemula
+[CATG] Marketing
+[LINK] https://insidelearn.com/pemasaran-afiliasi-101-pemasaran-afiliasi-untuk-pemula 
+----------------
+[INFO] YAML Basics- Easy guide to understand, create & consume YAML
+[CATG] IT & Software
+[LINK] https://insidelearn.com/yaml-basics-easy-guide-to-understand-create-consume-yaml 
+----------------
+[INFO] LinkedIn Ads Course 2020 : Advanced Strategies for Success
+[CATG] Marketing
+[LINK] https://insidelearn.com/linkedin-ads-course-2020-advanced-strategies-for-success 
+----------------
+[INFO] The Self-Taught Programmer
+[CATG] Development
+[LINK] https://insidelearn.com/the-self-taught-programmer 
+----------------
+
+[PAGE] 2
+==================================================
+[INFO] Pentesting and Securing Web Applications (Ethical Hacking)
+[CATG] IT & Software
+[LINK] https://insidelearn.com/pentesting-and-securing-web-applications-ethical-hacking 
+----------------
+[INFO] Svelte js Getting Started To the Point Guide
+[CATG] Development
+[LINK] https://insidelearn.com/svelte-js-getting-started-to-the-point-guide 
+----------------
+[INFO] [2021] Data Science: A-Z Bootcamp + Real Cases (Version 8.1)
+[CATG] Development
+[LINK] https://insidelearn.com/2021-data-science-a-z-bootcamp-real-cases-version-8-1 
+----------------
+[INFO] Instagram Marketing 2020 | Grow Organic Followers Naturally!
+[CATG] Marketing
+[LINK] https://insidelearn.com/instagram-marketing-2020-grow-organic-followers-naturally 
+----------------
+[INFO] Amazon Quicksight
+[CATG] Business
+[LINK] https://insidelearn.com/amazon-quicksight 
+----------------
+[INFO] 2020 Youtube Hack: Paying For Engagement, Not Only Clicks!
+[CATG] Marketing
+[LINK] https://insidelearn.com/2020-youtube-hack-paying-for-engagement-not-only-clicks 
+----------------
+[INFO] Node.js Crash Course
+[CATG] Development
+[LINK] https://insidelearn.com/node-js-crash-course 
+----------------
+[INFO] Java Programming: Complete Beginner to Advanced
+[CATG] Development
+[LINK] https://insidelearn.com/java-programming-complete-beginner-to-advanced 
+----------------
+[INFO] Java Course For Beginners
+[CATG] Development
+[LINK] https://insidelearn.com/java-course-for-beginners 
+----------------
+[INFO] Python 3 for ABSOLUTE beginners! [April 2020 Edition]
+[CATG] Development
+[LINK] https://insidelearn.com/python-3-for-absolute-beginners-april-2020-edition 
+----------------
+[INFO] Learn HTML, CSS & JavaScript Web For Development
+[CATG] Development
+[LINK] https://insidelearn.com/learn-html-css-javascript-web-for-development 
+----------------
+[INFO] Pandas Library
+[CATG] Development
+[LINK] https://insidelearn.com/pandas-library 
+----------------

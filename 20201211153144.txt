@@ -1,0 +1,111 @@
+*****************************************
+*  THANKS FOR USE                       *
+*  Please Come to My Github             *
+*  https://github.com/airgg             *
+*                                       *
+*  Don't Forget to Follow My Instagram  *
+*  https://instagram.com/airgg18        *
+*                                       *
+*****************************************
+
+[PAGE] 1
+==================================================
+[INFO] Fundamentals of Programming
+[CATG] Development
+[LINK] https://insidelearn.com/fundamentals-of-programming 
+----------------
+[INFO] Best Cyber Security and Ethical Hacking introduction course
+[CATG] IT & Software
+[LINK] https://insidelearn.com/best-cyber-security-and-ethical-hacking-introduction-course 
+----------------
+[INFO] YouTube Marketing for Beginners | YouTube Business Made Easy
+[CATG] Marketing
+[LINK] https://insidelearn.com/youtube-marketing-for-beginners-youtube-business-made-easy 
+----------------
+[INFO] Public Speaking for People Who Hate Public Speaking
+[CATG] Personal Development
+[LINK] https://insidelearn.com/public-speaking-for-people-who-hate-public-speaking 
+----------------
+[INFO] Java Programming: Complete Beginner to Advanced
+[CATG] Development
+[LINK] https://insidelearn.com/java-programming-complete-beginner-to-advanced 
+----------------
+[INFO] Practical Web Design & Development: 7 Courses in 1
+[CATG] Development
+[LINK] https://insidelearn.com/practical-web-design-development-7-courses-in-1 
+----------------
+[INFO] [2021] Machine Learning with R: A-Z Course (Version 4.6)
+[CATG] Development
+[LINK] https://insidelearn.com/2021-machine-learning-with-r-a-z-course-version-4-6 
+----------------
+[INFO] Complete course in AutoCAD 2020 : 2D and 3D
+[CATG] Design 
+[LINK] https://insidelearn.com/complete-course-in-autocad-2020-2d-and-3d 
+----------------
+[INFO] Python And Django Framework For Beginners Complete Course
+[CATG] IT & Software
+[LINK] https://insidelearn.com/python-and-django-framework-for-beginners-complete-course 
+----------------
+[INFO] I want to connect my Xamarin Forms app to REST API
+[CATG] Development
+[LINK] https://insidelearn.com/i-want-to-connect-my-xamarin-forms-app-to-rest-api-1 
+----------------
+[INFO] Agile Metrics: Elevate Team Agility with Scrum Reporting
+[CATG] Business
+[LINK] https://insidelearn.com/agile-metrics-elevate-team-agility-with-scrum-reporting 
+----------------
+[INFO] Starting with Teespring: Buidling a Passive Income Business
+[CATG] Business
+[LINK] https://insidelearn.com/starting-with-teespring-buidling-a-passive-income-business 
+----------------
+
+[PAGE] 2
+==================================================
+[INFO] Python-Introduction to Data Science and Machine learning A-Z
+[CATG] Development
+[LINK] https://insidelearn.com/python-introduction-to-data-science-and-machine-learning-a-z 
+----------------
+[INFO] Getting started with DevOps using Azure DevOps & Docker
+[CATG] Development
+[LINK] https://insidelearn.com/getting-started-with-devops-using-azure-devops-docker-1 
+----------------
+[INFO] Linux for Cloud & DevOps Engineers
+[CATG] IT & Software
+[LINK] https://insidelearn.com/linux-for-cloud-devops-engineers 
+----------------
+[INFO] Machine learning & AI Hands on 3 Projects.
+[CATG] Development
+[LINK] https://insidelearn.com/machine-learning-ai-hands-on-3-projects 
+----------------
+[INFO] Deploy Infra in the Cloud using Terraform
+[CATG] Development
+[LINK] https://insidelearn.com/deploy-infra-in-the-cloud-using-terraform 
+----------------
+[INFO] Data Augmentation in NLP
+[CATG] Development
+[LINK] https://insidelearn.com/data-augmentation-in-nlp 
+----------------
+[INFO] Learn Java Programming: Classes and Objects
+[CATG] Development
+[LINK] https://insidelearn.com/learn-java-programming-classes-and-objects 
+----------------
+[INFO] Machine Learning with Python Training (beginner to advanced)
+[CATG] Development
+[LINK] https://insidelearn.com/machine-learning-with-python-training-beginner-to-advanced 
+----------------
+[INFO] Data Science with Python Certification Training with Project
+[CATG] Development
+[LINK] https://insidelearn.com/data-science-with-python-certification-training-with-project 
+----------------
+[INFO] Build an Amazon Affiliate E-Commerce Store from Scratch
+[CATG] Development
+[LINK] https://insidelearn.com/build-an-amazon-affiliate-e-commerce-store-from-scratch 
+----------------
+[INFO] How to Install a Free SSL Certificate using Let's Encrypt
+[CATG] Development
+[LINK] https://insidelearn.com/how-to-install-a-free-ssl-certificate-using-let-s-encrypt 
+----------------
+[INFO] Learn to Host Multiple Domains on one Virtual Server
+[CATG] Development
+[LINK] https://insidelearn.com/learn-to-host-multiple-domains-on-one-virtual-server 
+----------------
