@@ -9,15 +9,16 @@ For check free course udemy, you can get list udemy course and easy to choose wh
 #### If you don't know, here i give you, How to Install PIP:
 https://docs.python.org/3/installing/index.html#basic-usage
 
-### Then you can change this line for how many page you want
-![Image of Change Keyword](https://github.com/DTAX-01/Alphacoders-Downloader/blob/master/d2.PNG)
+### Then you can run file "getcoursekoosng.py" and type how many page you want
+![Image of Change Keyword](https://github.com/AIRGG/List-Free-Course-Udemy/blob/master/ss/s1-1.PNG)
 
-### Wait until the Code parse All Link All Page
-![Image of Process Getting Link](https://github.com/DTAX-01/Alphacoders-Downloader/blob/master/d1.PNG)
+### Wait until the Code parse All Page
+![Image of Process Getting Link](https://github.com/AIRGG/List-Free-Course-Udemy/blob/master/ss/s1-2.PNG)
 
 ### After Finish it Will Generate .txt File
-![Image of Generate .txt](https://github.com/DTAX-01/Alphacoders-Downloader/blob/master/d3.PNG)
+![Image of Generate .txt](https://github.com/AIRGG/List-Free-Course-Udemy/blob/master/ss/s1-3.PNG)
 
-### or you just download .exe from [here](https://pypi.org/project/bs4/)
+## or you just download .exe from [here](https://github.com/AIRGG/List-Free-Course-Udemy/releases/download/1.0/getcoursekosong.exe)
+* after download you just plug and play, don't need to download requirements pip in above
 
 Have Fun.
